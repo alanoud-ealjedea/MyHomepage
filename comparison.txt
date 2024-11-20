@@ -1,0 +1,12 @@
+Comparison Summary
+The diff feature in Github allowed me to see changes and fixes that enhanced the functionality and adjusted the formatting.
+
+1 
+ The inital commit contained only the basic HTML structure with a headline and a simple paragraph.
+ In the feature implementation I added a GIF using an <img> tag. Also, included styling to it and an alt descrbtion for the link.
+
+2
+ The bug version introduced a simple but commen problem: unclosed parentheses. This small mistake can cuse a lot of display errors.
+ The fix was straightforward. I closed the tag and made sure all parentheses were matched and everything worked smoothly.
+<p>Stay tuned for exciting content and feel free to explore..</p
+    <p>Stay tuned for exciting content and feel free to explore..</p>
