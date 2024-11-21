@@ -1,9 +1,8 @@
 Comparison Summary
-The diff feature in Github allowed me to see changes and fixes that enhanced the functionality and adjusted the formatting.
 
 1 
  The inital commit contained only the basic HTML structure with a headline and a simple paragraph.
- In the feature implementation I added a GIF using an <img> tag. Also, included styling to it and an alt descrbtion for the link.
+ In the feature implementation I added a GIF using an <img> tag. Also, included styling to it and an alt descrbtion for the link. I noticed that adding visual elements makes the page more interesting and keeps the user engaged.
 
 2
  The bug version introduced a simple but commen problem: unclosed parentheses. This small mistake can cuse a lot of display errors.
